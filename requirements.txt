@@ -8,3 +8,7 @@ python-multipart
 openai
 
 python-dotenv
+
+supabase
+
+python-telegram-bot==20.3
