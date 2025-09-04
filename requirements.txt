@@ -1,0 +1,10 @@
+# TODO: Add project dependencies
+
+fastapi
+uvicorn[standard]
+
+python-multipart
+
+openai
+
+python-dotenv
